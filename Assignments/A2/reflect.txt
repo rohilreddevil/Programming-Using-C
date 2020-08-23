@@ -1,0 +1,3 @@
+1) These two functions make it less complicating for any programmer who has got a lot of data to deal with. With the 'find' function, it makes it easier to search the desired member of the object with the parameters and conditions already provided. Furthermore, the string functions make it more convenient. The same can be said for the ten digit function. With is criteria set, it won't take long to access those values. The more the functions, the more readable and organized the code looks. 
+
+2) I learnt the idea of experimenting and playing with different logic executions and the variable management for each set of functions. Also got my clarity enhanced on structures and pointers. 
