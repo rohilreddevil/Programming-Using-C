@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>51</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>65</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>83</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>93</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>101</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>f:\dropbox\seneca college\semester 1\ipc\a1\assignment1 ipc\</FILEPATH>
+      <FILENAME>a1ms2.c</FILENAME>
+      <LINE>116</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>24</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
